@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pavankumar-T
 - 👀 I’m interested in coding & solving puzzles
-- 🌱 I’m currently learning c++,python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c++, python
 - 📫 How to reach me 9110377241
 
 
